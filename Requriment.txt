@@ -1,0 +1,5 @@
+flask -> backend
+html,css -> fronted 
+MLModel -> prediction
+Jupiter _notebook -> perform opreation 
+Dataset ->CSV 
